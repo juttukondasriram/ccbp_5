@@ -1,0 +1,26 @@
+.alignment {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  background: transparent;
+  border-width: 0;
+}
+
+.card-container {
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d7dae6;
+}
+
+.first {
+  display: none;
+}
+
+.second {
+  display: inline;
+}
