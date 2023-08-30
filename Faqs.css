@@ -1,0 +1,14 @@
+.bg-container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #cb8805;
+}
+
+.list-style {
+  list-style-type: none;
+}
